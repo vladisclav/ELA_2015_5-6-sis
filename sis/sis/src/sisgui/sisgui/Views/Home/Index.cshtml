@@ -1,0 +1,29 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    ViewBag.Title = "Home Page";
+}
+@using (Html.BeginForm("Process", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+        <div align ="left">
+            <p>
+                Height: <br />
+                @Html.TextBox("height")<br />
+                Width: <br>
+                @Html.TextBox("width")<br />
+            </p>
+            <p>
+                Rotate by:
+                @Html.TextBox("degrees")<br />
+            </p>
+            <p>
+                Blackwhite?
+                @Html.CheckBox("blackwhite")<br />
+            </p>
+
+            <input type="file" name="file" />
+            <input type="submit" value="OK" />
+        </div>
+}

@@ -1,0 +1,18 @@
+c:\users\дмитрий\documents\visual studio 2013\Projects\ImageProcessingWorker\ImageProcessingWorker\bin\Debug\ImageProcessingWorker.exe.config
+c:\users\дмитрий\documents\visual studio 2013\Projects\ImageProcessingWorker\ImageProcessingWorker\bin\Debug\ImageProcessingWorker.exe
+c:\users\дмитрий\documents\visual studio 2013\Projects\ImageProcessingWorker\ImageProcessingWorker\bin\Debug\ImageProcessingWorker.pdb
+c:\users\дмитрий\documents\visual studio 2013\Projects\ImageProcessingWorker\ImageProcessingWorker\obj\Debug\ImageProcessingWorker.csprojResolveAssemblyReference.cache
+c:\users\дмитрий\documents\visual studio 2013\Projects\ImageProcessingWorker\ImageProcessingWorker\obj\Debug\ImageProcessingWorker.exe
+c:\users\дмитрий\documents\visual studio 2013\Projects\ImageProcessingWorker\ImageProcessingWorker\obj\Debug\ImageProcessingWorker.pdb
+C:\Users\GM\Desktop\sis-master\src\ImageProcessingWorker\ImageProcessingWorker\bin\Debug\ImageProcessingWorker.exe.config
+C:\Users\GM\Desktop\sis-master\src\ImageProcessingWorker\ImageProcessingWorker\obj\Debug\ImageProcessingWorker.exe
+C:\Users\GM\Desktop\sis-master\src\ImageProcessingWorker\ImageProcessingWorker\obj\Debug\ImageProcessingWorker.pdb
+C:\Users\GM\Desktop\sis-master\src\ImageProcessingWorker\ImageProcessingWorker\bin\Debug\ImageProcessingWorker.exe
+C:\Users\GM\Desktop\sis-master\src\ImageProcessingWorker\ImageProcessingWorker\bin\Debug\ImageProcessingWorker.pdb
+C:\Users\GM\Desktop\sis-master\src\ImageProcessingWorker\ImageProcessingWorker\obj\Debug\ImageProcessingWorker.csprojResolveAssemblyReference.cache
+C:\Users\GM\Desktop\sis\src\ImageProcessingWorker\ImageProcessingWorker\bin\Debug\ImageProcessingWorker.exe.config
+C:\Users\GM\Desktop\sis\src\ImageProcessingWorker\ImageProcessingWorker\obj\Debug\ImageProcessingWorker.exe
+C:\Users\GM\Desktop\sis\src\ImageProcessingWorker\ImageProcessingWorker\obj\Debug\ImageProcessingWorker.pdb
+C:\Users\GM\Desktop\sis\src\ImageProcessingWorker\ImageProcessingWorker\bin\Debug\ImageProcessingWorker.exe
+C:\Users\GM\Desktop\sis\src\ImageProcessingWorker\ImageProcessingWorker\bin\Debug\ImageProcessingWorker.pdb
+C:\Users\GM\Desktop\sis\src\ImageProcessingWorker\ImageProcessingWorker\obj\Debug\ImageProcessingWorker.csprojResolveAssemblyReference.cache

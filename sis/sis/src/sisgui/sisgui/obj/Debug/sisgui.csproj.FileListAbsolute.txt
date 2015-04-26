@@ -1,0 +1,122 @@
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\obj\Debug\sisgui.csprojResolveAssemblyReference.cache
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\sisgui.dll.config
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\sisgui.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\sisgui.pdb
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Antlr3.Runtime.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\EntityFramework.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\EntityFramework.SqlServer.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.Security.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.Security.Google.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Web.Infrastructure.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Newtonsoft.Json.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Owin.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\System.Web.Helpers.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\System.Web.Mvc.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\System.Web.Optimization.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\System.Web.Razor.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\System.Web.WebPages.Deployment.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\System.Web.WebPages.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\System.Web.WebPages.Razor.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\WebGrease.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\System.Web.Helpers.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\System.Web.Mvc.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\System.Web.Optimization.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\System.Web.Razor.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\System.Web.WebPages.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\System.Web.WebPages.Deployment.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\System.Web.WebPages.Razor.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Antlr3.Runtime.pdb
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Newtonsoft.Json.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\EntityFramework.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\EntityFramework.SqlServer.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.Security.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.Security.Google.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\System.Web.Helpers.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\System.Web.Mvc.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\System.Web.Optimization.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\System.Web.Razor.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\System.Web.WebPages.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\EntityFramework.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\EntityFramework.SqlServer.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\Microsoft.Owin.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\Microsoft.Owin.Security.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\obj\Debug\sisgui.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\sisgui\sisgui\obj\Debug\sisgui.pdb
+D:\sisgui\sisgui\bin\sisgui.dll.config
+D:\sisgui\sisgui\bin\sisgui.dll
+D:\sisgui\sisgui\bin\sisgui.pdb
+D:\sisgui\sisgui\bin\System.Web.Helpers.xml
+D:\sisgui\sisgui\bin\System.Web.Mvc.xml
+D:\sisgui\sisgui\bin\System.Web.Optimization.xml
+D:\sisgui\sisgui\bin\System.Web.Razor.xml
+D:\sisgui\sisgui\bin\System.Web.WebPages.xml
+D:\sisgui\sisgui\bin\System.Web.WebPages.Deployment.xml
+D:\sisgui\sisgui\bin\System.Web.WebPages.Razor.xml
+D:\sisgui\sisgui\bin\Antlr3.Runtime.pdb
+D:\sisgui\sisgui\bin\Newtonsoft.Json.xml
+D:\sisgui\sisgui\bin\EntityFramework.xml
+D:\sisgui\sisgui\bin\EntityFramework.SqlServer.xml
+D:\sisgui\sisgui\bin\Microsoft.AspNet.Identity.Core.xml
+D:\sisgui\sisgui\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\sisgui\sisgui\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\sisgui\sisgui\bin\Microsoft.Owin.xml
+D:\sisgui\sisgui\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\sisgui\sisgui\bin\Microsoft.Owin.Security.xml
+D:\sisgui\sisgui\bin\Microsoft.Owin.Security.Facebook.xml
+D:\sisgui\sisgui\bin\Microsoft.Owin.Security.Cookies.xml
+D:\sisgui\sisgui\bin\Microsoft.Owin.Security.OAuth.xml
+D:\sisgui\sisgui\bin\Microsoft.Owin.Security.Google.xml
+D:\sisgui\sisgui\bin\Microsoft.Owin.Security.Twitter.xml
+D:\sisgui\sisgui\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\sisgui\sisgui\bin\ru\System.Web.Helpers.resources.dll
+D:\sisgui\sisgui\bin\ru\System.Web.Mvc.resources.dll
+D:\sisgui\sisgui\bin\ru\System.Web.Optimization.resources.dll
+D:\sisgui\sisgui\bin\ru\System.Web.Razor.resources.dll
+D:\sisgui\sisgui\bin\ru\System.Web.WebPages.resources.dll
+D:\sisgui\sisgui\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\sisgui\sisgui\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\sisgui\sisgui\bin\ru\EntityFramework.resources.dll
+D:\sisgui\sisgui\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\sisgui\sisgui\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\sisgui\sisgui\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\sisgui\sisgui\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\sisgui\sisgui\bin\ru\Microsoft.Owin.resources.dll
+D:\sisgui\sisgui\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\sisgui\sisgui\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\sisgui\sisgui\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\sisgui\sisgui\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\sisgui\sisgui\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\sisgui\sisgui\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\sisgui\sisgui\obj\Debug\sisgui.csprojResolveAssemblyReference.cache
+D:\sisgui\sisgui\obj\Debug\sisgui.dll
+D:\sisgui\sisgui\obj\Debug\sisgui.pdb

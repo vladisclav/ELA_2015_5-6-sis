@@ -1,0 +1,37 @@
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\CalculatorClient.csprojResolveAssemblyReference.cache
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\CalculatorClient.csproj.GenerateResource.Cache
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ClassLibrary1.dll
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ClassLibrary1.pdb
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ClassLibrary1.dll
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ClassLibrary1.pdb
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\CalculatorClient.csprojResolveAssemblyReference.cache
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\CalculatorClient.csproj.GenerateResource.Cache
+C:\Users\GM\Desktop\lab6-master\scr\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\GM\Desktop\lab6-master\scr\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\GM\Desktop\lab6-master\scr\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\GM\Desktop\lab6-master\scr\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\GM\Desktop\lab6-master\scr\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\GM\Desktop\lab6-master\scr\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\CalculatorClient.csprojResolveAssemblyReference.cache
+C:\Users\GM\Desktop\lab6-master\scr\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\GM\Desktop\lab6-master\scr\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\GM\Desktop\lab6-master\scr\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\CalculatorClient.csproj.GenerateResource.Cache
+C:\Users\GM\Desktop\lab6-master\11BD\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\GM\Desktop\lab6-master\11BD\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\GM\Desktop\lab6-master\11BD\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\GM\Desktop\lab6\scr\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\GM\Desktop\lab6\scr\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\GM\Desktop\lab6\scr\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb

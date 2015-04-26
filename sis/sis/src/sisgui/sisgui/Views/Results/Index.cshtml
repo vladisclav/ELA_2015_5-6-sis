@@ -1,0 +1,11 @@
+﻿@{
+    ViewBag.Title = "ResultsView";
+}
+<table>
+    @foreach (string s in ViewBag.res)
+    {
+        <tr><th><img height="500" width="500" src='\uploads\@s'> </th><th><img src='\results\@s'></th></tr>
+    }
+</table>
+<h2>ResultsView</h2>
+

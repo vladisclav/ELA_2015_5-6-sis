@@ -1,0 +1,16 @@
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\CalculatorServer\obj\Debug\CalculatorServer.csprojResolveAssemblyReference.cache
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\CalculatorServer\bin\Debug\CalculatorServer.exe.config
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\CalculatorServer\bin\Debug\CalculatorServer.exe
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\CalculatorServer\bin\Debug\CalculatorServer.pdb
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\CalculatorServer\bin\Debug\ClassLibrary1.dll
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\CalculatorServer\bin\Debug\ClassLibrary1.pdb
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\CalculatorServer\obj\Debug\CalculatorServer.exe
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\CalculatorServer\obj\Debug\CalculatorServer.pdb
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\CalculatorServer\bin\Debug\CalculatorServer.exe.config
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\CalculatorServer\bin\Debug\CalculatorServer.exe
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\CalculatorServer\bin\Debug\CalculatorServer.pdb
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\CalculatorServer\bin\Debug\ClassLibrary1.dll
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\CalculatorServer\bin\Debug\ClassLibrary1.pdb
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\CalculatorServer\obj\Debug\CalculatorServer.csprojResolveAssemblyReference.cache
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\CalculatorServer\obj\Debug\CalculatorServer.exe
+C:\Users\GM\Desktop\lab6-master\11BD02081\WindowsFormsApplication3\CalculatorServer\obj\Debug\CalculatorServer.pdb
